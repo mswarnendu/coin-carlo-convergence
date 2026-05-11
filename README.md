@@ -1,2 +1,11 @@
-# coin-carlo-convergence
-A simple Monte Carlo convergence test in Python that estimates probability and visualizes convergence over time.
+# Coin Flip Monte Carlo Convergence Test
+
+## Overview
+
+This is a simply Monte Carlo simulation of 1,000,000 coin flips in Python that estimates the probability of a coin flip and visualizes how the estimated probability evolves over more trials.
+
+## How to Run
+
+1. Make sure Python is installed
+2. Download or clone this repository
+3. Run the coinCarloConvergence.py file
